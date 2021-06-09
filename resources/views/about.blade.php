@@ -24,9 +24,10 @@
 
     <div class="card col-12 col-md-9 col-lg-8 mt-2">
         <div class="card-content p-2">
-            I'm a Software Engineer living in Lagos, Nigeria. I have experience with  backend development and quite proficient with frontend development. So guess I am a Fullstack Engineer!
-            I built <a class="cyan-text" href="https://uptrybe.com" target="blank">Uptrybe</a>, an online platform for user-generated quizzes/trivia (You should really check it out). I'm currently
-            also part of the team building <i>Oradun Radio</i>, an indigenious internet radio/media. I'll be spending 2021 as a fulltime software engineering student of the <a class="cyan-text" href="https://microverse.org" target="blank">Microverse Global School.</a>
+            I'm a Software Engineer living in Lagos, Nigeria. I'm a fulltime software engineering student of the <a class="cyan-text" href="https://microverse.org" target="blank">Microverse Global School</a>, where I'm 
+            supercharging my skills as a software developer by learning in a fast-paced enviroment and building cool projects along the way. I have experience with  backend development and quite proficient with frontend 
+            development. So guess I am a Fullstack Engineer!
+            I built <a class="cyan-text" href="https://uptrybe.com" target="blank">Uptrybe</a>, an online platform for user-generated quizzes/trivia (You should really check it out).
             <br>
             
             <h4 class="cyan-text mt-3"><strong>My Dev Journey</strong></h4>
@@ -42,11 +43,11 @@
                 and <a class="cyan-text" href="https://glaziang.com/luxury-lingerie-brand-mikaifer-lux-comes-nigeria" target="blank">Mikaifer Lux</a>, a now defunct Nigerian lingerie brand.
             </p>
 
-            <p>After my time at Heathway, a friend and I tried to build a fintech startup that tanked in epic fashion. I'll talk more on this and the wonderful lessons I learnt if you and I ever get to meet.</p>
+            <p>After my time at Heathway, a friend and I tried to build a fintech startup that tanked in epic fashion, haha. But on the bright side, learnt my both valuable technical and inter-personal lessons in the process.</p>
 
-            <p>I built <a class="cyan-text" href="https://uptrybe.com" target="blank">Uptrybe</a>, a platform that let users create and explore short quizzes in fun ways, and I currently oversee it's continued growth (engineering, content, outreach). I am also currently handling the tech side of things at <i>OradunRadio</i>, a soon-to-launch indigenious internet radio/media. You can find some my other works <a class="cyan-text" href="/craft">here</a>.</p>
+            <p>I built <a class="cyan-text" href="https://uptrybe.com" target="blank">Uptrybe</a>, a platform that let users create and explore short quizzes in fun ways, and I currently oversee it's continued growth (engineering, content, outreach). I am also currently building <i class="font-weight-bold">PrepOne</i>, a soon-to-launched telegram bot that lets Nigerian students easily practise for Unified Tertiary Matriculation Examination (UTME). You can find some my other works <a class="cyan-text" href="/craft">here</a>.</p>
 
-            <p>I have touched on many programming languages and technologies, including C, Java and C#, but the ones that really stuck have been Php/Laravel and Javascript/NodeJs.</p>
+            <p>I have touched on many programming languages and technologies, including C, Java and C#, but the ones that really stuck have been <span class="font-weight-bold">Ruby/Ruby on Rails, CSS/Bootstrap, Javascript/NodeJs, Php/Laravel.</span></p>
 
             <h4 class="cyan-text">OUTSIDE TECH</h4>
 
