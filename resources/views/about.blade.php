@@ -15,7 +15,7 @@
 
             <div class="col-12 text-center mt-2">                
                     <a href="https://twitter.com/mo_bello19"><i class="fab fa-twitter-square cyan-text" style="font-size: 1.5em"></i></a> &nbsp;
-                    <a href="https://www.linkedin.com/in/morenikeji-bello-106103143/"><i class="fab fa-linkedin blue-text" style="font-size: 1.5em"></i></a> &nbsp;                    
+                    <a href="https://www.linkedin.com/in/morenikeji-bello/"><i class="fab fa-linkedin blue-text" style="font-size: 1.5em"></i></a> &nbsp;                    
                     <a href="https://github.com/moreneecoder"><i class="fab fa-github-square black-text" style="font-size: 1.5em"></i></a>                
             </div>
         </div>        

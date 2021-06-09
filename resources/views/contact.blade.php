@@ -27,9 +27,7 @@
             <!--Facebook-->
             <a href="https://web.facebook.com/morenikeji.bello.39" class="mx-1 blue-text" role="button"><i class="fab fa-facebook-f"></i></a>
             <a href="https://twitter.com/mo_bello19" class="mx-1 cyan-text" role="button"><i class="fab fa-twitter"></i></a>
-            <a href="https://www.linkedin.com/in/morenikeji-bello-106103143/" class="mx-1 blue-text" role="button"><i class="fab fa-linkedin-in"></i></a>
-            <a href="https://instagram.com/mo_bello19" class="mx-1 pink-text" role="button"><i class="fab fa-instagram"></i></a>            
-            <a href="https://github.com/moreneecoder" class="mx-1 black-text" role="button"><i class="fab fa-github"></i></a>            
+            <a href="https://www.linkedin.com/in/morenikeji-bello/" class="mx-1 blue-text" role="button"><i class="fab fa-linkedin-in"></i></a>       
   
   
         </div>
