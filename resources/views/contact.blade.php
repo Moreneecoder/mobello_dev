@@ -10,10 +10,16 @@
   
   
       <!--Grid row-->
-      <div class="row d-flex justify-content-center mb-4">
+      <div class="row mb-4"> <!-- d-flex justify-content-center >
+
+        <!--Grid column-->
+        <div class="col-md-12 col-lg-6 text-center">
+          <img class="img-fluid" src="{{ asset( '/images/undraw_contact_us_15o2.svg' ) }}" alt="#">
+        </div>
+        <!--Grid column-->
   
         <!--Grid column-->
-        <div class="col-md-6 text-center">
+        <div class="col-md-12 col-lg-6 text-center mt-3">
             
             <address>
                 <a href="mailto:bellokeji19@gmail.com" class="font-weight-bold">bellokeji19@gmail.com</a> <br>
