@@ -57,7 +57,7 @@
               <strong>
                   <p class="mb-1 pb-2 white-text">Muslim <i class="fas fa-mosque"></i> | Grinner <i class="far fa-grin"></i> | Jogger <i class="fas fa-skating"></i></p> 
 
-                 <p class="mb-4 pb-2 white-text">Team Lead, <a class="cyan-text" href="https://uptrybe.com" target="_blank">Uptrybe</a> | Software Engineer, Oradun Radio | Fulltime Student, <a class="cyan-text" href="https://microverse.org" target="_blank">Microverse</a></p>
+                 <p class="mb-4 pb-2 white-text">Building <a class="cyan-text" href="https://uptrybe.com" target="_blank">Uptrybe</a> | Software Engineering Student, <a class="cyan-text" href="https://microverse.org" target="_blank">Microverse</a></p>
               </strong>
 
               <div class="row">
