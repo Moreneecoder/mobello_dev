@@ -55,9 +55,10 @@
             <div class="col-md-7 text-center">
               <h3 class="mb-4 mt-10 white-text">Hey there! I am <br><strong class="text-warning" style="font-size:1.5em">MO' BELLO</strong><br>{<span class="cyan-text">BELLO</span> MORENIKEJI <span class="cyan-text">FUAD</span>}</h3>
               <strong>
-                  <p class="mb-1 pb-2 white-text">Muslim <i class="fas fa-mosque text-warning"></i> | Grinner <i class="far fa-grin text-warning"></i> | Jogger <i class="fas fa-skating text-warning"></i></p> 
+                  <p class="mb-1 pb-2 white-text">Muslim <i class="fas fa-mosque"></i> | Grinner <i class="far fa-grin"></i> | Jogger <i class="fas fa-skating"></i></p>                   
+                 <p class="mb-4 pb-0 mb-0 white-text">Building <a class="cyan-text" href="https://uptrybe.com" target="_blank">Uptrybe</a> | Software Engineering Student, <a class="cyan-text"  href="https://microverse.org" target="_blank">Microverse</a></p>
 
-                 <p class="mb-4 pb-2 white-text">Building <a class="cyan-text" href="https://uptrybe.com" target="_blank">Uptrybe</a> | Software Engineering Student, <a class="cyan-text" href="https://microverse.org" target="_blank">Microverse</a></p>
+                 <img src="{{ asset( '/images/Mo-Carbon.png' ) }}" alt="#" class="img-fluid mb-2 d-none d-lg-block">
               </strong>
 
               <div class="row">
